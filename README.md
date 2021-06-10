@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abhinav-sendinblue
 - 👀 I’m interested in FrontEnd development
-- 🌱 I’m currently learning React-hooks
 - 📫 How to reach me https://twitter.com/abhinav_rai1994
 
 <!---
